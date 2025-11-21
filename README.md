@@ -42,7 +42,7 @@ def lambda_handler(event, context):
 ```
 
 ### Palautetaan joko onnistunut (200 OK) tai epäonnistunut (404 error) vastaus
-`code`
+```python
         return {
             "statusCode": 200,
             "body": json.dumps({
@@ -56,7 +56,7 @@ def lambda_handler(event, context):
             "statusCode": 404,
             "body": json.dumps({"error": f"No definition found for '{word}'"})
         } 
-`code`
+```
 
 # Serverless-arkkitehtuurin hyödyt ja rajoitteet
 
