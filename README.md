@@ -1,5 +1,5 @@
 # Johdanto
-Seminaarityöni aihe on syventyä tarkemmin AWS:n (Amazon Web Services) ja serverless-ratkaisujen pariin sekä tarkastella kyseisen arkkitehtuurin haittoja ja hyötyjä osana sujuvaa ohjelmistokehityksen prosessia. Serverless-arkkitehtuuri, eli Function-as-a-Service (FaaS) on tapa luoda sovelluskehityksessä ketterä infrastruktuuri sovellukselle. Tämän raportin lisäksi olen luonut avointa API:a hyödyntävän sanakirja-sovelluksen tukeakseni oppimistani ja ymmärrystäni kyseisen arkkitehtuurin parissa. 
+Seminaarityöni aihe on syventyä tarkemmin AWS:n (Amazon Web Services) ja serverless-ratkaisujen pariin sekä tarkastella kyseisen arkkitehtuurin haittoja ja rajoitteita osana sujuvaa ohjelmistokehityksen prosessia. Serverless-arkkitehtuuri, eli Function-as-a-Service (FaaS) on tapa luoda sovelluskehityksessä ketterä infrastruktuuri sovellukselle ilman paikallista palvelinta. Tämän raportin lisäksi olen luonut avointa API:a hyödyntävän sanakirja-sovelluksen tukeakseni oppimistani ja ymmärrystäni kyseisen arkkitehtuurin parissa. 
 
 ## Sovelluksessa käytetyt teknologiat
 - AWS Lambda
