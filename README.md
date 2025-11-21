@@ -76,7 +76,7 @@ AWS-konsolissa Lambda-funktio lisätään konsoliin upotettuun koodieditoriin, m
 
 AWS -konsolissa on simppeli tapa testata funktiota. Konsolissa luodaan uusi testitapahtuma, mihin annetaan JSON-muodossa pyyntö. Testin voi tallentaa myös myöhempää käyttöä varten ja ajaa konsolin sisällä, milloin testi palauttaa funktion lopputuloksen. 
 
-![alt text](screenshots/image-1.png)
+![alt text](screenshots/image-4.png)
 
 ### Testin tulos:
 
